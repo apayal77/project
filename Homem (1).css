@@ -1,0 +1,5 @@
+.container {
+    position: relative;
+    height: 100vh; /* Set this to the height of your container */
+    width: 100%;   /* Set this to the width of your container */
+}
